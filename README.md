@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+⚡ Sri Astalakshmi Electricals Website
 
-# Run and deploy your AI Studio app
+A modern, premium, and responsive website built for Sri Astalakshmi Electricals, a trusted electrical retail shop in Dindigul with 12 Years in Business.
 
-This contains everything you need to run your app locally.
+🌟 Overview
+This project represents a high-end digital presence for a leading electrical showroom.
+The website is designed with a classy, modern UI and smooth navigation experience.
 
-View your app in AI Studio: https://ai.studio/apps/drive/10p9soGN76gqYVmqATtxB-wgi1Lqgp4YV
+🚀 Features
+Premium modern UI/UX design
+Fully responsive (mobile-first)
+Smooth scrolling navigation
+Dynamic sticky navbar behavior
+Category-based product browsing
+Image-rich product galleries
+WhatsApp enquiry integration
+SEO-friendly structure
+Clean and scalable architecture
 
-## Run Locally
+📂 Website Sections
+Home
+Categories
+Gallery
+About Us
+Contact
+All major sections are accessible directly from the homepage with smooth navigation.
 
-**Prerequisites:**  Node.js
+🛠️ Built With
+Modern HTML structure
+CSS (responsive & styled components)
+Smooth scroll & interactive UI behavior
+WhatsApp click-to-chat integration
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+🎯 Purpose
+To create a premium digital showroom experience that reflects the quality, trust, and professionalism of Sri Astalakshmi Electricals.
