@@ -7,6 +7,12 @@ The website is actively used by the business to showcase products, provide conta
 
 ---
 
+## 🎯 Project Purpose
+
+This project was created as part of a **survey-based web development initiative**, transforming local shop information into a digital platform to improve accessibility and visibility.
+
+---
+
 ## 🚀 Website Features
 
 - Premium modern UI/UX
